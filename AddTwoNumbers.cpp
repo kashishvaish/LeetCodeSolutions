@@ -42,6 +42,5 @@ public:
 // Approach
 
 // Go through the two linked lists node by node --> calculating sum of corresponding digits and keeping track of carry.
-
 // Time: O(m+n) where m and n are the length of linked lists
 // Space: O(m+n)
