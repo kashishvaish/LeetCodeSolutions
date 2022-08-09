@@ -7,3 +7,4 @@
 5. Longest Palindromic Substring | [Cpp](LongestPalindromicSubstring.cpp) | [Python](LongestPalindromicSubstring.py) | [Java](LongestPalindromicSubstring.java)
 6. Zigzag Conversion | [Cpp](ZigzagConversion.cpp) | [Python](ZigzagConversion.py) | [Java](ZigzagConversion.java)
 7. Reverse Integer | [Cpp](ReverseInteger.cpp) | [Python](ReverseInteger.py) | [Java](ReverseInteger.java)
+8. String to Integer (atoi) | [Cpp](StringtoInteger.cpp) | [Python](StringtoInteger.py) | [Java](StringtoInteger.java)
