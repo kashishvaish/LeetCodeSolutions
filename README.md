@@ -6,3 +6,4 @@
 4. Median of Two Sorted Arrays | [Cpp](MedianofTwoSortedArrays.cpp) | [Python](MedianofTwoSortedArrays.py) | [Java](MedianofTwoSortedArrays.java)
 5. Longest Palindromic Substring | [Cpp](LongestPalindromicSubstring.cpp) | [Python](LongestPalindromicSubstring.py) | [Java](LongestPalindromicSubstring.java)
 6. Zigzag Conversion | [Cpp](ZigzagConversion.cpp) | [Python](ZigzagConversion.py) | [Java](ZigzagConversion.java)
+7. Reverse Integer | [Cpp](ReverseInteger.cpp) | [Python](ReverseInteger.py) | [Java](ReverseInteger.java)
