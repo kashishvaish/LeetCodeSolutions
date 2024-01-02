@@ -15,3 +15,4 @@
 
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
 455. Assign Cookies | [Cpp](AssignCookies.cpp) | [Python](AssignCookies.py) | [Java](AssignCookies.java)
+2610. Convert an Array Into a 2D Array With Conditions | [Python](ConvertArrayInto2DArrayWithConditions.py)
