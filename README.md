@@ -15,5 +15,5 @@
 
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
 455. Assign Cookies | [Cpp](AssignCookies.cpp) | [Python](AssignCookies.py) | [Java](AssignCookies.java)
-2125. Number of Laser Beams in a Bank | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
+2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
