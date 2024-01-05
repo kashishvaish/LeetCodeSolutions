@@ -11,7 +11,7 @@
 9. Palindrome Number | [Cpp](PalindromeNumber.cpp) | [Python](PalindromeNumber.py) | [Java](PalindromeNumber.java)
 11. Container With Most Water | [Cpp](ContainerWithMostWater.cpp) | [Python](ContainerWithMostWater.py) | [Java](ContainerWithMostWater.java)
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
-300. Longest Increasing Subsequence | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
+300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
 455. Assign Cookies | [Cpp](AssignCookies.cpp) | [Python](AssignCookies.py) | [Java](AssignCookies.java)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
