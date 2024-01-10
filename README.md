@@ -18,5 +18,6 @@
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
+2385. Amount of Time for Binary Tree to Be Infected | [Python](AmountOfTimeForBinaryTreeToBeInfected.py)
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
 2870. Minimum Number of Operations to Make Array Empty | [Cpp](MinimumNumberOfOperationsToMakeArrayEmpty.cpp) | [Python](MinimumNumberOfOperationsToMakeArrayEmpty.py) | [Java](MinimumNumberOfOperationsToMakeArrayEmpty.java)
