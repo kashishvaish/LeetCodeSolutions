@@ -16,6 +16,7 @@
 446. Arithmetic Slices II - Subsequence | [Python](ArithmeticSlicesIISubsequence.py)
 872. Leaf-Similar Trees | [Cpp](LeafSimilarTrees.cpp) | [Python](LeafSimilarTrees.py) | [Java](LeafSimilarTrees.java)
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
+1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2385. Amount of Time for Binary Tree to Be Infected | [Python](AmountOfTimeForBinaryTreeToBeInfected.py)
