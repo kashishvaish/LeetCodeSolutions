@@ -18,6 +18,7 @@
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
+1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2385. Amount of Time for Binary Tree to Be Infected | [Python](AmountOfTimeForBinaryTreeToBeInfected.py)
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
