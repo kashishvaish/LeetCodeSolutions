@@ -19,7 +19,7 @@ class Solution:
         return [sorted(zero), sorted(one)]
 
 # Approach
-# Create a disctionary/hashmap to store the players and their number of losses.
+# Create a dictionary/hashmap to store the players and their number of losses.
 # Store players with 0 and 1 losses in different lists.
 # Sort them and return the answer.
 
