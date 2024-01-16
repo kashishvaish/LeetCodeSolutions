@@ -11,6 +11,7 @@
 9. Palindrome Number | [Cpp](PalindromeNumber.cpp) | [Python](PalindromeNumber.py) | [Java](PalindromeNumber.java)
 11. Container With Most Water | [Cpp](ContainerWithMostWater.cpp) | [Python](ContainerWithMostWater.py) | [Java](ContainerWithMostWater.java)
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
+46. Permutations | [Python](Permutations.py)
 88. Merge Sorted Array | [Cpp](MergeSortedArray.cpp) | [Python](MergeSortedArray.py) | [Java](MergeSortedArray.java)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
 380. Insert Delete GetRandom O(1) | [Python](InsertDeleteGetRandomO(1).py)
