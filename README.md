@@ -20,6 +20,7 @@
 872. Leaf-Similar Trees | [Cpp](LeafSimilarTrees.cpp) | [Python](LeafSimilarTrees.py) | [Java](LeafSimilarTrees.java)
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
+1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 1347. Minimum Number of Steps to Make Two Strings Anagram | [Cpp](MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp) | [Python](MinimumNumberOfStepsToMakeTwoStringsAnagram.py) | [Java](MinimumNumberOfStepsToMakeTwoStringsAnagram.java)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
