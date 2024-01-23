@@ -27,6 +27,7 @@
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
 1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
+1239. Maximum Length of a Concatenated String with Unique Characters | [Cpp](MaximumLengthOfConcatenatedStringWithUniqueCharacters.cpp) | [Python](MaximumLengthOfConcatenatedStringWithUniqueCharacters.py) | [Java](MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
 1347. Minimum Number of Steps to Make Two Strings Anagram | [Cpp](MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp) | [Python](MinimumNumberOfStepsToMakeTwoStringsAnagram.py) | [Java](MinimumNumberOfStepsToMakeTwoStringsAnagram.java)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
