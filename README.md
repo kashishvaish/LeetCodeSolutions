@@ -29,6 +29,7 @@
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 1239. Maximum Length of a Concatenated String with Unique Characters | [Cpp](MaximumLengthOfConcatenatedStringWithUniqueCharacters.cpp) | [Python](MaximumLengthOfConcatenatedStringWithUniqueCharacters.py) | [Java](MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
 1347. Minimum Number of Steps to Make Two Strings Anagram | [Cpp](MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp) | [Python](MinimumNumberOfStepsToMakeTwoStringsAnagram.py) | [Java](MinimumNumberOfStepsToMakeTwoStringsAnagram.java)
+1457. Pseudo-Palindromic Paths in a Binary Tree | [Cpp](PseudoPalindromicPathsInBinaryTree.cpp) | [Python](PseudoPalindromicPathsInBinaryTree.py) | [Java](PseudoPalindromicPathsInBinaryTree.java)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
