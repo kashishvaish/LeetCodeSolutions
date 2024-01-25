@@ -27,6 +27,7 @@
 931. Minimum Falling Path Sum | [Cpp](MinimumFallingPathSum.cpp) | [Python](MinimumFallingPathSum.py) | [Java](MinimumFallingPathSum.java)
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
+1143. Longest Common Subsequence | [Cpp](LongestCommonSubsequence.cpp) | [Python](LongestCommonSubsequence.py) | [Java](LongestCommonSubsequence.java)
 1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 1239. Maximum Length of a Concatenated String with Unique Characters | [Cpp](MaximumLengthOfConcatenatedStringWithUniqueCharacters.cpp) | [Python](MaximumLengthOfConcatenatedStringWithUniqueCharacters.py) | [Java](MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
