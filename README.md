@@ -11,6 +11,7 @@
 9. Palindrome Number | [Cpp](PalindromeNumber.cpp) | [Python](PalindromeNumber.py) | [Java](PalindromeNumber.java)
 11. Container With Most Water | [Cpp](ContainerWithMostWater.cpp) | [Python](ContainerWithMostWater.py) | [Java](ContainerWithMostWater.java)
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
+26. Remove Duplicates from Sorted Array | [Python](RemoveDuplicatesFromSortedArray.py)
 27. Remove Element | [Python](RemoveElement.py)
 46. Permutations | [Python](Permutations.py)
 70. Climbing Stairs | [Cpp](ClimbingStairs.cpp) | [Python](ClimbingStairs.py) | [Java](ClimbingStairs.java)
