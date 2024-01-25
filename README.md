@@ -13,6 +13,7 @@
 14. Longest Common Prefix | [Python](LongestCommonPrefix.py)
 26. Remove Duplicates from Sorted Array | [Python](RemoveDuplicatesFromSortedArray.py)
 27. Remove Element | [Python](RemoveElement.py)
+28. Find the Index of the First Occurrence in a String | [Python](FindIndexOfFirstOccurrenceInString.py)
 46. Permutations | [Python](Permutations.py)
 70. Climbing Stairs | [Cpp](ClimbingStairs.cpp) | [Python](ClimbingStairs.py) | [Java](ClimbingStairs.java)
 80. Remove Duplicates from Sorted Array II | [Cpp](RemoveDuplicatesFromSortedArrayII.cpp) | [Python](RemoveDuplicatesFromSortedArrayII.py) | [Java](RemoveDuplicatesFromSortedArrayII.java)
