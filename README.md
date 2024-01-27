@@ -24,6 +24,7 @@
 455. Assign Cookies | [Cpp](AssignCookies.cpp) | [Python](AssignCookies.py) | [Java](AssignCookies.java)
 446. Arithmetic Slices II - Subsequence | [Python](ArithmeticSlicesIISubsequence.py)
 576. Out of Boundary Paths | [Cpp](OutOfBoundaryPaths.cpp) | [Python](OutOfBoundaryPaths.py) | [Java](OutOfBoundaryPaths.java)
+629. K Inverse Pairs Array | [Java](KInversePairsArray.java)
 645. Set Mismatch | [Cpp](SetMismatch.cpp) | [Python](SetMismatch.py) | [Java](SetMismatch.java)
 872. Leaf-Similar Trees | [Cpp](LeafSimilarTrees.cpp) | [Python](LeafSimilarTrees.py) | [Java](LeafSimilarTrees.java)
 907. Sum of Subarray Minimums | [Cpp](SumOfSubarrayMinimums.cpp) | [Python](SumOfSubarrayMinimums.py) | [Java](SumOfSubarrayMinimums.java)
