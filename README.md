@@ -35,6 +35,7 @@
 931. Minimum Falling Path Sum | [Cpp](MinimumFallingPathSum.cpp) | [Python](MinimumFallingPathSum.py) | [Java](MinimumFallingPathSum.java)
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
+1043. Partition Array for Maximum Sum | [Cpp](PartitionArrayForMaximumSum.cpp) | [Python](PartitionArrayForMaximumSum.py) | [Java](PartitionArrayForMaximumSum.java)
 1074. Number of Submatrices That Sum to Target | [Cpp](NumberOfSubmatricesThatSumToTarget.cpp) | [Python](NumberOfSubmatricesThatSumToTarget.py) | [Java](NumberOfSubmatricesThatSumToTarget.java)
 1143. Longest Common Subsequence | [Cpp](LongestCommonSubsequence.cpp) | [Python](LongestCommonSubsequence.py) | [Java](LongestCommonSubsequence.java)
 1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
