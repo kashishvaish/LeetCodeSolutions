@@ -24,6 +24,7 @@
 169. Majority Element | [Cpp](MajorityElement.cpp) | [Python](MajorityElement.py) | [Java](MajorityElement.java)
 198. House Robber | [Cpp](HouseRobber.cpp) | [Python](HouseRobber.py) | [Java](HouseRobber.java)
 232. Implement Queue using Stacks | [Python](ImplementQueueUsingStacks.py)
+279. Perfect Squares | [Python](PerfectSquares.py)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
 380. Insert Delete GetRandom O(1) | [Python](InsertDeleteGetRandomO(1).py)
 387. First Unique Character in a String | [Cpp](FirstUniqueCharacterInString.cpp) | [Python](FirstUniqueCharacterInString.py) | [Java](FirstUniqueCharacterInString.java)
