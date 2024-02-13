@@ -53,6 +53,7 @@
 1457. Pseudo-Palindromic Paths in a Binary Tree | [Cpp](PseudoPalindromicPathsInBinaryTree.cpp) | [Python](PseudoPalindromicPathsInBinaryTree.py) | [Java](PseudoPalindromicPathsInBinaryTree.java)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
+2108. Find First Palindromic String in the Array | [Cpp](FindFirstPalindromicStringInArray.cpp) | [Python](FindFirstPalindromicStringInArray.py) | [Java](FindFirstPalindromicStringInArray.java)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2225. Find Players With Zero or One Losses | [Cpp](FindPlayersWithZeroOrOneLosses.cpp) | [Python](FindPlayersWithZeroOrOneLosses.py) | [Java](FindPlayersWithZeroOrOneLosses.java)
 2385. Amount of Time for Binary Tree to Be Infected | [Python](AmountOfTimeForBinaryTreeToBeInfected.py)
