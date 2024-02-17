@@ -52,6 +52,7 @@
 1347. Minimum Number of Steps to Make Two Strings Anagram | [Cpp](MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp) | [Python](MinimumNumberOfStepsToMakeTwoStringsAnagram.py) | [Java](MinimumNumberOfStepsToMakeTwoStringsAnagram.java)
 1457. Pseudo-Palindromic Paths in a Binary Tree | [Cpp](PseudoPalindromicPathsInBinaryTree.cpp) | [Python](PseudoPalindromicPathsInBinaryTree.py) | [Java](PseudoPalindromicPathsInBinaryTree.java)
 1481. Least Number of Unique Integers after K Removals | [Cpp](LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | [Python](LeastNumberOfUniqueIntegersAfterKRemovals.py) | [Java](LeastNumberOfUniqueIntegersAfterKRemovals.java)
+1642. Furthest Building You Can Reach | [Python](FurthestBuildingYouCanReach.py)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
 2108. Find First Palindromic String in the Array | [Cpp](FindFirstPalindromicStringInArray.cpp) | [Python](FindFirstPalindromicStringInArray.py) | [Java](FindFirstPalindromicStringInArray.java)
