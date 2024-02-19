@@ -24,6 +24,7 @@
 169. Majority Element | [Cpp](MajorityElement.cpp) | [Python](MajorityElement.py) | [Java](MajorityElement.java)
 198. House Robber | [Cpp](HouseRobber.cpp) | [Python](HouseRobber.py) | [Java](HouseRobber.java)
 206. Reverse Linked List | [Cpp](ReverseLinkedList.cpp) | [Python](ReverseLinkedList.py) | [Java](ReverseLinkedList.java)
+231. Power of Two | [Python](PowerOfTwo.py)
 232. Implement Queue using Stacks | [Python](ImplementQueueUsingStacks.py)
 279. Perfect Squares | [Python](PerfectSquares.py)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
