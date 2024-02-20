@@ -26,6 +26,7 @@
 206. Reverse Linked List | [Cpp](ReverseLinkedList.cpp) | [Python](ReverseLinkedList.py) | [Java](ReverseLinkedList.java)
 231. Power of Two | [Python](PowerOfTwo.py)
 232. Implement Queue using Stacks | [Python](ImplementQueueUsingStacks.py)
+268. Missing Number | [Cpp](MissingNumber.cpp) | [Python](MissingNumber.py) | [Java](MissingNumber.java)
 279. Perfect Squares | [Python](PerfectSquares.py)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
 368. Largest Divisible Subset | [Python](LargestDivisibleSubset.py)
