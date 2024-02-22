@@ -44,6 +44,7 @@
 907. Sum of Subarray Minimums | [Cpp](SumOfSubarrayMinimums.cpp) | [Python](SumOfSubarrayMinimums.py) | [Java](SumOfSubarrayMinimums.java)
 931. Minimum Falling Path Sum | [Cpp](MinimumFallingPathSum.cpp) | [Python](MinimumFallingPathSum.py) | [Java](MinimumFallingPathSum.java)
 938. Range Sum of BST | [Cpp](RangeSumOfBST.cpp) | [Python](RangeSumOfBST.py) | [Java](RangeSumOfBST.java)
+997. Find the Town Judge | [Cpp](FindTheTownJudge.cpp) | [Python](FindTheTownJudge.py) | [Java](FindTheTownJudge.java)
 1026. Maximum Difference Between Node and Ancestor | [Cpp](MaximumDifferenceBetweenNodeAndAncestor.cpp) | [Python](MaximumDifferenceBetweenNodeAndAncestor.py) | [Java](MaximumDifferenceBetweenNodeAndAncestor.java)
 1043. Partition Array for Maximum Sum | [Cpp](PartitionArrayForMaximumSum.cpp) | [Python](PartitionArrayForMaximumSum.py) | [Java](PartitionArrayForMaximumSum.java)
 1074. Number of Submatrices That Sum to Target | [Cpp](NumberOfSubmatricesThatSumToTarget.cpp) | [Python](NumberOfSubmatricesThatSumToTarget.py) | [Java](NumberOfSubmatricesThatSumToTarget.java)
