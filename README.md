@@ -40,6 +40,7 @@
 629. K Inverse Pairs Array | [Java](KInversePairsArray.java)
 645. Set Mismatch | [Cpp](SetMismatch.cpp) | [Python](SetMismatch.py) | [Java](SetMismatch.java)
 739. Daily Temperatures | [Cpp](DailyTemperatures.cpp) | [Python](DailyTemperatures.py) | [Java](DailyTemperatures.java)
+787. Cheapest Flights Within K Stops | [Python](CheapestFlightsWithinKStops.py)
 872. Leaf-Similar Trees | [Cpp](LeafSimilarTrees.cpp) | [Python](LeafSimilarTrees.py) | [Java](LeafSimilarTrees.java)
 907. Sum of Subarray Minimums | [Cpp](SumOfSubarrayMinimums.cpp) | [Python](SumOfSubarrayMinimums.py) | [Java](SumOfSubarrayMinimums.java)
 931. Minimum Falling Path Sum | [Cpp](MinimumFallingPathSum.cpp) | [Python](MinimumFallingPathSum.py) | [Java](MinimumFallingPathSum.java)
