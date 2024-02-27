@@ -38,6 +38,7 @@
 451. Sort Characters By Frequency | [Python](SortCharactersByFrequency.py)
 455. Assign Cookies | [Cpp](AssignCookies.cpp) | [Python](AssignCookies.py) | [Java](AssignCookies.java)
 446. Arithmetic Slices II - Subsequence | [Python](ArithmeticSlicesIISubsequence.py)
+543. Diameter of Binary Tree | [Cpp](DiameterOfBinaryTree.cpp) | [Python](DiameterOfBinaryTree.py) | [Java](DiameterOfBinaryTree.java)
 576. Out of Boundary Paths | [Cpp](OutOfBoundaryPaths.cpp) | [Python](OutOfBoundaryPaths.py) | [Java](OutOfBoundaryPaths.java)
 629. K Inverse Pairs Array | [Java](KInversePairsArray.java)
 645. Set Mismatch | [Cpp](SetMismatch.cpp) | [Python](SetMismatch.py) | [Java](SetMismatch.java)
