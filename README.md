@@ -68,6 +68,7 @@
 1642. Furthest Building You Can Reach | [Python](FurthestBuildingYouCanReach.py)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1704. Determine if String Halves Are Alike | [Cpp](DetermineIfStringHalvesAreAlike.cpp) | [Python](DetermineIfStringHalvesAreAlike.py) | [Java](DetermineIfStringHalvesAreAlike.java)
+1750. Minimum Length of String After Deleting Similar Ends | [Python](MinimumLengthOfStringAfterDeletingSimilarEnds.py)
 2108. Find First Palindromic String in the Array | [Cpp](FindFirstPalindromicStringInArray.cpp) | [Python](FindFirstPalindromicStringInArray.py) | [Java](FindFirstPalindromicStringInArray.java)
 2125. Number of Laser Beams in a Bank | [Cpp](NumberOfLaserBeamsInBank.cpp) | [Python](NumberOfLaserBeamsInBank.py) | [Java](NumberOfLaserBeamsInBank.java)
 2149. Rearrange Array Elements by Sign | [Cpp](RearrangeArrayElementsBySign.cpp) | [Python](RearrangeArrayElementsBySign.py) | [Java](RearrangeArrayElementsBySign.java)
