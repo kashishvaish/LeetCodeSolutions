@@ -77,6 +77,7 @@
 2225. Find Players With Zero or One Losses | [Cpp](FindPlayersWithZeroOrOneLosses.cpp) | [Python](FindPlayersWithZeroOrOneLosses.py) | [Java](FindPlayersWithZeroOrOneLosses.java)
 2385. Amount of Time for Binary Tree to Be Infected | [Python](AmountOfTimeForBinaryTreeToBeInfected.py)
 2402. Meeting Rooms III | [Python](MeetingRoomsIII.py)
+2540. Minimum Common Value | [Python](MinimumCommonValue.py)
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
 2864. Maximum Odd Binary Number | [Python](MaximumOddBinaryNumber.py)
 2870. Minimum Number of Operations to Make Array Empty | [Cpp](MinimumNumberOfOperationsToMakeArrayEmpty.cpp) | [Python](MinimumNumberOfOperationsToMakeArrayEmpty.py) | [Java](MinimumNumberOfOperationsToMakeArrayEmpty.java)
