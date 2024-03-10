@@ -34,6 +34,7 @@
 268. Missing Number | [Cpp](MissingNumber.cpp) | [Python](MissingNumber.py) | [Java](MissingNumber.java)
 279. Perfect Squares | [Python](PerfectSquares.py)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
+349. Intersection of Two Arrays | [Python](IntersectionOfTwoArrays.py)
 368. Largest Divisible Subset | [Python](LargestDivisibleSubset.py)
 380. Insert Delete GetRandom O(1) | [Python](InsertDeleteGetRandomO(1).py)
 387. First Unique Character in a String | [Cpp](FirstUniqueCharacterInString.cpp) | [Python](FirstUniqueCharacterInString.py) | [Java](FirstUniqueCharacterInString.java)
