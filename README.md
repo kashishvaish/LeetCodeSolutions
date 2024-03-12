@@ -61,6 +61,7 @@
 1043. Partition Array for Maximum Sum | [Cpp](PartitionArrayForMaximumSum.cpp) | [Python](PartitionArrayForMaximumSum.py) | [Java](PartitionArrayForMaximumSum.java)
 1074. Number of Submatrices That Sum to Target | [Cpp](NumberOfSubmatricesThatSumToTarget.cpp) | [Python](NumberOfSubmatricesThatSumToTarget.py) | [Java](NumberOfSubmatricesThatSumToTarget.java)
 1143. Longest Common Subsequence | [Cpp](LongestCommonSubsequence.cpp) | [Python](LongestCommonSubsequence.py) | [Java](LongestCommonSubsequence.java)
+1171. Remove Zero Sum Consecutive Nodes from Linked List | [Python](RemoveZeroSumConsecutiveNodesFromLinkedList.py)
 1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 1239. Maximum Length of a Concatenated String with Unique Characters | [Cpp](MaximumLengthOfConcatenatedStringWithUniqueCharacters.cpp) | [Python](MaximumLengthOfConcatenatedStringWithUniqueCharacters.py) | [Java](MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
