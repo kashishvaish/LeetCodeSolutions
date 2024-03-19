@@ -48,6 +48,7 @@
 525. Contiguous Array | [Python](ContiguousArray.py)
 543. Diameter of Binary Tree | [Cpp](DiameterOfBinaryTree.cpp) | [Python](DiameterOfBinaryTree.py) | [Java](DiameterOfBinaryTree.java)
 576. Out of Boundary Paths | [Cpp](OutOfBoundaryPaths.cpp) | [Python](OutOfBoundaryPaths.py) | [Java](OutOfBoundaryPaths.java)
+621. Task Scheduler | [Python](TaskScheduler.py)
 629. K Inverse Pairs Array | [Java](KInversePairsArray.java)
 645. Set Mismatch | [Cpp](SetMismatch.cpp) | [Python](SetMismatch.py) | [Java](SetMismatch.java)
 739. Daily Temperatures | [Cpp](DailyTemperatures.cpp) | [Python](DailyTemperatures.py) | [Java](DailyTemperatures.java)
