@@ -37,6 +37,7 @@
 238. Product of Array Except Self | [Python](ProductOfArrayExceptSelf.py)
 268. Missing Number | [Cpp](MissingNumber.cpp) | [Python](MissingNumber.py) | [Java](MissingNumber.java)
 279. Perfect Squares | [Python](PerfectSquares.py)
+287. Find the Duplicate Number | [Python](FindTheDuplicateNumber.py)
 300. Longest Increasing Subsequence | [Cpp](LongestIncreasingSubsequence.cpp) | [Python](LongestIncreasingSubsequence.py) | [Java](LongestIncreasingSubsequence.java)
 349. Intersection of Two Arrays | [Python](IntersectionOfTwoArrays.py)
 368. Largest Divisible Subset | [Python](LargestDivisibleSubset.py)
