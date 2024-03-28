@@ -98,6 +98,7 @@
 2610. Convert an Array Into a 2D Array With Conditions | [Cpp](ConvertArrayInto2DArrayWithConditions.cpp) | [Python](ConvertArrayInto2DArrayWithConditions.py) | [Java](ConvertArrayInto2DArrayWithConditions.java)
 2864. Maximum Odd Binary Number | [Python](MaximumOddBinaryNumber.py)
 2870. Minimum Number of Operations to Make Array Empty | [Cpp](MinimumNumberOfOperationsToMakeArrayEmpty.cpp) | [Python](MinimumNumberOfOperationsToMakeArrayEmpty.py) | [Java](MinimumNumberOfOperationsToMakeArrayEmpty.java)
+2958. Length of Longest Subarray With at Most K Frequency | [Python](LengthOfLongestSubarrayWithAtMostKFrequency.py)
 2966. Divide Array Into Arrays With Max Difference | [Cpp](DivideArrayIntoArraysWithMaxDifference.cpp) | [Python](DivideArrayIntoArraysWithMaxDifference.py) | [Java](DivideArrayIntoArraysWithMaxDifference.java)
 2971. Find Polygon With the Largest Perimeter | [Cpp](FindPolygonWithLargestPerimeter.cpp) | [Python](FindPolygonWithLargestPerimeter.py) | [Java](FindPolygonWithLargestPerimeter.java)
 3005. Count Elements With Maximum Frequency | [Python](CountElementsWithMaximumFrequency.py)
