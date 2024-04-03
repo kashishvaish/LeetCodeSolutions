@@ -22,6 +22,7 @@
 58. Length of Last Word | [Python](LengthOfLastWord.py)
 70. Climbing Stairs | [Cpp](ClimbingStairs.cpp) | [Python](ClimbingStairs.py) | [Java](ClimbingStairs.java)
 76. Minimum Window Substring | [Python](MinimumWindowSubstring.py)
+79. Word Search | [Python](WordSearch.py)
 80. Remove Duplicates from Sorted Array II | [Cpp](RemoveDuplicatesFromSortedArrayII.cpp) | [Python](RemoveDuplicatesFromSortedArrayII.py) | [Java](RemoveDuplicatesFromSortedArrayII.java)
 88. Merge Sorted Array | [Cpp](MergeSortedArray.cpp) | [Python](MergeSortedArray.py) | [Java](MergeSortedArray.java)
 94. Binary Tree Inorder Traversal | [Python](BinaryTreeInorderTraversal.py)
