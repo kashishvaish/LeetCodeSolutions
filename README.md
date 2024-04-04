@@ -85,6 +85,7 @@
 1457. Pseudo-Palindromic Paths in a Binary Tree | [Cpp](PseudoPalindromicPathsInBinaryTree.cpp) | [Python](PseudoPalindromicPathsInBinaryTree.py) | [Java](PseudoPalindromicPathsInBinaryTree.java)
 1481. Least Number of Unique Integers after K Removals | [Cpp](LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | [Python](LeastNumberOfUniqueIntegersAfterKRemovals.py) | [Java](LeastNumberOfUniqueIntegersAfterKRemovals.java)
 1609. Even Odd Tree | [Python](EvenOddTree.py)
+1614. Maximum Nesting Depth of the Parentheses | [Python](MaximumNestingDepthOfParentheses.py)
 1642. Furthest Building You Can Reach | [Python](FurthestBuildingYouCanReach.py)
 1657. Determine if Two Strings Are Close | [Cpp](DetermineIfTwoStringsAreClose.cpp) | [Python](DetermineIfTwoStringsAreClose.py) | [Java](DetermineIfTwoStringsAreClose.java)
 1669. Merge In Between Linked Lists | [Python](MergeInBetweenLinkedLists.py)
