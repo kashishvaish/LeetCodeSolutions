@@ -80,6 +80,7 @@
 1207. Unique Number of Occurrences | [Cpp](UniqueNumberOfOccurrences.cpp) | [Python](UniqueNumberOfOccurrences.py) | [Java](UniqueNumberOfOccurrences.java)
 1235. Maximum Profit in Job Scheduling | [Python](MaximumProfitInJobScheduling.py)
 1239. Maximum Length of a Concatenated String with Unique Characters | [Cpp](MaximumLengthOfConcatenatedStringWithUniqueCharacters.cpp) | [Python](MaximumLengthOfConcatenatedStringWithUniqueCharacters.py) | [Java](MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
+1249. Minimum Remove to Make Valid Parentheses | [Python](MinimumRemoveToMakeValidParentheses.py)
 1291. Sequential Digits | [Cpp](SequentialDigits.cpp) | [Python](SequentialDigits.py) | [Java](SequentialDigits.java)
 1347. Minimum Number of Steps to Make Two Strings Anagram | [Cpp](MinimumNumberOfStepsToMakeTwoStringsAnagram.cpp) | [Python](MinimumNumberOfStepsToMakeTwoStringsAnagram.py) | [Java](MinimumNumberOfStepsToMakeTwoStringsAnagram.java)
 1457. Pseudo-Palindromic Paths in a Binary Tree | [Cpp](PseudoPalindromicPathsInBinaryTree.cpp) | [Python](PseudoPalindromicPathsInBinaryTree.py) | [Java](PseudoPalindromicPathsInBinaryTree.java)
