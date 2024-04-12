@@ -16,6 +16,7 @@
 27. Remove Element | [Python](RemoveElement.py)
 28. Find the Index of the First Occurrence in a String | [Python](FindIndexOfFirstOccurrenceInString.py)
 41. First Missing Positive | [Python](FirstMissingPositive.py)
+42. Trapping Rain Water | [Python](TrappingRainWater.py)
 46. Permutations | [Python](Permutations.py)
 49. Group Anagrams | [Cpp](GroupAnagrams.cpp) | [Python](GroupAnagrams.py) | [Java](GroupAnagrams.java)
 57. Insert Interval | [Python](InsertInterval.py)
