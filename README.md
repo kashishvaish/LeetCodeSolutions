@@ -50,6 +50,7 @@
 380. Insert Delete GetRandom O(1) | [Python](InsertDeleteGetRandomO(1).py)
 387. First Unique Character in a String | [Cpp](FirstUniqueCharacterInString.cpp) | [Python](FirstUniqueCharacterInString.py) | [Java](FirstUniqueCharacterInString.java)
 402. Remove K Digits | [Python](RemoveKDigits.py)
+404. Sum of Left Leaves | [Python](SumOfLeftLeaves.py)
 442. Find All Duplicates in an Array | [Python](FindAllDuplicatesInArray.py)
 451. Sort Characters By Frequency | [Python](SortCharactersByFrequency.py)
 452. Minimum Number of Arrows to Burst Balloons | [Python](MinimumNumberOfArrowsToBurstBalloons.py)
